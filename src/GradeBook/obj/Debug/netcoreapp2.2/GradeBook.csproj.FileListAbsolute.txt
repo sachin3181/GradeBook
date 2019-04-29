@@ -1,0 +1,11 @@
+D:\Pluralsight Courses\C# Fundamentals by Scott Allen\CODE\gradebook\src\GradeBook\bin\Debug\netcoreapp2.2\GradeBook.deps.json
+D:\Pluralsight Courses\C# Fundamentals by Scott Allen\CODE\gradebook\src\GradeBook\bin\Debug\netcoreapp2.2\GradeBook.runtimeconfig.json
+D:\Pluralsight Courses\C# Fundamentals by Scott Allen\CODE\gradebook\src\GradeBook\bin\Debug\netcoreapp2.2\GradeBook.runtimeconfig.dev.json
+D:\Pluralsight Courses\C# Fundamentals by Scott Allen\CODE\gradebook\src\GradeBook\bin\Debug\netcoreapp2.2\GradeBook.dll
+D:\Pluralsight Courses\C# Fundamentals by Scott Allen\CODE\gradebook\src\GradeBook\bin\Debug\netcoreapp2.2\GradeBook.pdb
+D:\Pluralsight Courses\C# Fundamentals by Scott Allen\CODE\gradebook\src\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.csprojAssemblyReference.cache
+D:\Pluralsight Courses\C# Fundamentals by Scott Allen\CODE\gradebook\src\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.csproj.CoreCompileInputs.cache
+D:\Pluralsight Courses\C# Fundamentals by Scott Allen\CODE\gradebook\src\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.AssemblyInfoInputs.cache
+D:\Pluralsight Courses\C# Fundamentals by Scott Allen\CODE\gradebook\src\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.AssemblyInfo.cs
+D:\Pluralsight Courses\C# Fundamentals by Scott Allen\CODE\gradebook\src\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.dll
+D:\Pluralsight Courses\C# Fundamentals by Scott Allen\CODE\gradebook\src\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.pdb
