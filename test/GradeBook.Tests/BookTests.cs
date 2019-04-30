@@ -5,8 +5,9 @@ namespace GradeBook.Tests
 {
     public class BookTests
     {
+    
         [Fact]
-        public void Test1()
+        public void BookCalculatesStats()
         {
             //arrange
             var book = new Book("Sachin");
@@ -23,6 +24,7 @@ namespace GradeBook.Tests
             Assert.Equal(expected, actual, 1);
             Assert.Equal(90.5, result.HighestGrade, 1);
             Assert.Equal(77.3, result.LowestGrade, 1);
+            Assert.Equal('B', result.LetterGrade);
         }
     }
 }
