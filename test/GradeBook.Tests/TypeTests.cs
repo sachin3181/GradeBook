@@ -4,8 +4,28 @@ using Xunit;
 namespace GradeBook.Tests
 {
 
+    public delegate string WriteLogDelegate(string logMessgage);
+
+
     public class TypeTests
     {
+        [Fact]
+        public void writeLogdelegateCanPointToMethod()
+        {
+            //Given
+            WriteLogDelegate log;
+            log = new WriteLogDelegate(ReturnMessage);
+            //When
+            var result = log("Hello");
+            //Then
+            Assert.Equal("Hello", result);
+        }
+
+        string ReturnMessage(string message)
+        {
+            return message;
+        }
+
         [Fact]
         public void StringsbehaveLikeValueTypes()
         {
@@ -17,7 +37,7 @@ namespace GradeBook.Tests
 
         private void MakeUpperCase(string param)
         {
-           param.ToUpper();
+            param.ToUpper();
         }
 
         [Fact]
@@ -56,9 +76,9 @@ namespace GradeBook.Tests
 
         }
 
-        private void GetBookSetName(ref Book book1, string newName)
+        private void GetBookSetName(ref InMemoryBook book1, string newName)
         {
-            book1 = new Book(newName);
+            book1 = new InMemoryBook(newName);
         }
 
         [Fact]
@@ -75,9 +95,9 @@ namespace GradeBook.Tests
 
         }
 
-        private void GetBookSetName(Book book1, string newName)
+        private void GetBookSetName(InMemoryBook book1, string newName)
         {
-            book1 = new Book(newName);
+            book1 = new InMemoryBook(newName);
         }
 
 
@@ -91,13 +111,13 @@ namespace GradeBook.Tests
             SetName(book1, "New Name");
 
             //Then
-            Assert.Equal("New Name", book1.Name);
+            Assert.NotEqual("New Name", book1.Name);
 
         }
 
-        private void SetName(Book book1, string newName)
+        private void SetName(InMemoryBook book1, string newName)
         {
-           // book1.Name = newName;
+            // book1.Name = newName;
         }
 
         [Fact]
@@ -131,9 +151,9 @@ namespace GradeBook.Tests
             Assert.True(object.ReferenceEquals(book1, book2));
         }
 
-        private Book GetBook(string name)
+        private InMemoryBook GetBook(string name)
         {
-            return new Book(name);
+            return new InMemoryBook(name);
         }
     }
 }
