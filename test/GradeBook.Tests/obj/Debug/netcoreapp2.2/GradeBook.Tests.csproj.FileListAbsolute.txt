@@ -1,0 +1,17 @@
+D:\Pluralsight Courses\C# Fundamentals by Scott Allen\CODE\gradebook\test\GradeBook.Tests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Pluralsight Courses\C# Fundamentals by Scott Allen\CODE\gradebook\test\GradeBook.Tests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+D:\Pluralsight Courses\C# Fundamentals by Scott Allen\CODE\gradebook\test\GradeBook.Tests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+D:\Pluralsight Courses\C# Fundamentals by Scott Allen\CODE\gradebook\test\GradeBook.Tests\bin\Debug\netcoreapp2.2\GradeBook.Tests.deps.json
+D:\Pluralsight Courses\C# Fundamentals by Scott Allen\CODE\gradebook\test\GradeBook.Tests\bin\Debug\netcoreapp2.2\GradeBook.Tests.runtimeconfig.json
+D:\Pluralsight Courses\C# Fundamentals by Scott Allen\CODE\gradebook\test\GradeBook.Tests\bin\Debug\netcoreapp2.2\GradeBook.Tests.runtimeconfig.dev.json
+D:\Pluralsight Courses\C# Fundamentals by Scott Allen\CODE\gradebook\test\GradeBook.Tests\bin\Debug\netcoreapp2.2\GradeBook.Tests.dll
+D:\Pluralsight Courses\C# Fundamentals by Scott Allen\CODE\gradebook\test\GradeBook.Tests\bin\Debug\netcoreapp2.2\GradeBook.Tests.pdb
+D:\Pluralsight Courses\C# Fundamentals by Scott Allen\CODE\gradebook\test\GradeBook.Tests\obj\Debug\netcoreapp2.2\GradeBook.Tests.csprojAssemblyReference.cache
+D:\Pluralsight Courses\C# Fundamentals by Scott Allen\CODE\gradebook\test\GradeBook.Tests\obj\Debug\netcoreapp2.2\GradeBook.Tests.csproj.CoreCompileInputs.cache
+D:\Pluralsight Courses\C# Fundamentals by Scott Allen\CODE\gradebook\test\GradeBook.Tests\obj\Debug\netcoreapp2.2\GradeBook.Tests.AssemblyInfoInputs.cache
+D:\Pluralsight Courses\C# Fundamentals by Scott Allen\CODE\gradebook\test\GradeBook.Tests\obj\Debug\netcoreapp2.2\GradeBook.Tests.AssemblyInfo.cs
+D:\Pluralsight Courses\C# Fundamentals by Scott Allen\CODE\gradebook\test\GradeBook.Tests\obj\Debug\netcoreapp2.2\GradeBook.Tests.dll
+D:\Pluralsight Courses\C# Fundamentals by Scott Allen\CODE\gradebook\test\GradeBook.Tests\obj\Debug\netcoreapp2.2\GradeBook.Tests.pdb
+D:\Pluralsight Courses\C# Fundamentals by Scott Allen\CODE\gradebook\test\GradeBook.Tests\bin\Debug\netcoreapp2.2\GradeBook.dll
+D:\Pluralsight Courses\C# Fundamentals by Scott Allen\CODE\gradebook\test\GradeBook.Tests\bin\Debug\netcoreapp2.2\GradeBook.pdb
+D:\Pluralsight Courses\C# Fundamentals by Scott Allen\CODE\gradebook\test\GradeBook.Tests\obj\Debug\netcoreapp2.2\GradeBook.Tests.csproj.CopyComplete
